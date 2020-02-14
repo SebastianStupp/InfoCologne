@@ -1,0 +1,23 @@
+{
+  "name": "infocologne",
+  "version": "1.0.0",
+  "description": "Info-Seite über Köln",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianStupp/InfoCologne.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianStupp/InfoCologne/issues"
+  },
+  "homepage": "https://github.com/SebastianStupp/InfoCologne#readme",
+  "dependencies": {
+    "htmlhint": "^0.11.0",
+    "prettier": "^1.19.1"
+  }
+}
